@@ -1,0 +1,13 @@
+Curve_Calculation 处理前，先需要对图片进行预处理，步骤如下：
+1. Image -> 8-bit
+2. Process -> Binary -> Make Binary
+3. Process -> Binary -> Skeletonize
+3. Process -> Binary -> Dilate
+
+MACRO
+
+run("8-bit");
+setOption("BlackBackground", false);
+run("Convert to Mask");
+run("Skeletonize");
+run("Dilate");
