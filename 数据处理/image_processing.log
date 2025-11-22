@@ -1,0 +1,7 @@
+2025-11-22 13:53:20,259 - ERROR - 输入文件夹不存在或不是文件夹: C:\Users\chenb\Desktop\input
+2025-11-22 13:53:32,179 - INFO - 找到 1 个图像文件
+2025-11-22 13:53:32,187 - INFO - 开始批量处理 1 个文件
+2025-11-22 13:53:32,189 - INFO - 处理进度: 1/1 - ImageCollection_0000046718_2021-02-04 09_06_07 IIIa-19_02_Hematoxylin_Channel.png
+2025-11-22 13:53:36,318 - INFO - 成功处理: ImageCollection_0000046718_2021-02-04 09_06_07 IIIa-19_02_Hematoxylin_Channel.png, 找到 4344 个分叉点
+2025-11-22 13:53:36,323 - INFO - 处理报告已保存到: C:\Users\chenb\Desktop\try\processed_results\processing_reports\processing_report.txt
+2025-11-22 13:53:36,325 - INFO - 批量处理完成

@@ -5,9 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b89ff0-84ee-4c23-ad42-0765e8bb31c3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/Fig_1_2_去除ECM分叉点.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fig_1_量化ECM曲率.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Fig_1_1_量化ECM曲率.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fig_1_0_FIJI_Haralick_Entropy_v1.ijm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fig_1_1_FIJI_Matrix_Intensity_v1.ijm" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fig_1_2_去除分叉前图像预处理.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fig_1_3_去除ECM分叉点.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Fig_1_4_量化ECM曲率.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,23 +53,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "G:/Papers_Codes_2026_Curvature",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.github.ui.GithubSettingsConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Papers_Codes_2026_Curvature&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.github.ui.GithubSettingsConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="G:\Papers_Codes_2026_Curvature" />
@@ -89,7 +92,8 @@
       <updated>1763740071200</updated>
       <workItem from="1763740072397" duration="2731000" />
       <workItem from="1763743381891" duration="857000" />
-      <workItem from="1763770885959" duration="3536000" />
+      <workItem from="1763770885959" duration="3814000" />
+      <workItem from="1763790550040" duration="2436000" />
     </task>
     <servers />
   </component>
