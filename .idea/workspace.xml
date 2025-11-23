@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b89ff0-84ee-4c23-ad42-0765e8bb31c3" name="更改" comment="">
+      <change afterPath="$PROJECT_DIR$/数理模型/Model v3.0.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fig_1_0_FIJI_Haralick_Entropy_v1.ijm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fig_1_1_FIJI_Matrix_Intensity_v1.ijm" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fig_1_2_去除分叉前图像预处理.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fig_1_3_去除ECM分叉点.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Fig_1_4_量化ECM曲率.ipynb" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +56,7 @@
     &quot;RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
     &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;G:/Papers_Codes_2026_Curvature&quot;,
+    &quot;last_opened_file_path&quot;: &quot;G:/Papers_Codes_2026_Curvature/数理模型&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -72,6 +68,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="G:\Papers_Codes_2026_Curvature\数理模型" />
       <recent name="G:\Papers_Codes_2026_Curvature" />
     </key>
   </component>
@@ -93,7 +90,8 @@
       <workItem from="1763740072397" duration="2731000" />
       <workItem from="1763743381891" duration="857000" />
       <workItem from="1763770885959" duration="3814000" />
-      <workItem from="1763790550040" duration="2436000" />
+      <workItem from="1763790550040" duration="17056000" />
+      <workItem from="1763816878585" duration="9759000" />
     </task>
     <servers />
   </component>
