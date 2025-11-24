@@ -5,8 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c4b89ff0-84ee-4c23-ad42-0765e8bb31c3" name="更改" comment="">
-      <change afterPath="$PROJECT_DIR$/数理模型/Model v3.0.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/数理模型/Fig_6_2_绘图.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数理模型/Model v3.0.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/数理模型/Model v3.0.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/数理模型/output_data/large_lambda_length_velocity.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/数理模型/output_data/small_lambda_length_velocity.csv" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -92,6 +95,11 @@
       <workItem from="1763770885959" duration="3814000" />
       <workItem from="1763790550040" duration="17056000" />
       <workItem from="1763816878585" duration="9759000" />
+      <workItem from="1763862081629" duration="26000" />
+      <workItem from="1763886822982" duration="2381000" />
+      <workItem from="1763889655291" duration="279000" />
+      <workItem from="1763890914196" duration="89000" />
+      <workItem from="1763945969687" duration="1833000" />
     </task>
     <servers />
   </component>
